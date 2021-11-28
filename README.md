@@ -1,10 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Jithin-Jude/jithin-jude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My self Jithin from Kerala, India.
+Currently working as Software Development Engineer at Riyaz, an EdTech startup.<br/>
+I'm a Google India Scholar & Udacity Android Developer Nanodegree graduate👨‍🎓
 
-Here are some ideas to get you started:
+I love meeting new people and learning new things, Feel free to say hello and share a story with me.
 
-- 🔭 I’m currently working on ... Riyaz (EdTech)
-- 🌱 I’m currently learning ... Jetpack Compose
--->
+🤵‍♂️ **Soft skills:**<br/>
+► Active listening<br/>
+► Critical Thinking<br/>
+► Self-management<br/><br/>
+
+💻 **Tech skills:**<br/>
+► Android SDK<br/>
+► Flutter SDK<br/>
+► Kotlin<br/>
+► Java<br/>
+► Architecture - MVVM (Android native), BLOC (Flutter)
