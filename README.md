@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My self Jithin from Kerala, India.
+Myself Jithin from Kerala, India.
 Currently working as Software Development Engineer at Riyaz, an EdTech startup.<br/>
 I'm a Google India Scholar & Udacity Android Developer Nanodegree graduate👨‍🎓
 
