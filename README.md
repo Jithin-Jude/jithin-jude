@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Myself Jithin from Kerala, India.
-Currently working as Software Development Engineer at Riyaz, an MusicTech startup.<br/>
+Currently working as Software Development Engineer at Riyaz, a MusicTech startup.<br/>
 I'm a Google India Scholar & Udacity Android Developer Nanodegree graduate👨‍🎓
 
 I love learn & explore new things, Feel free to say hi and share an idea with me, maybe I can help you.
