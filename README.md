@@ -7,7 +7,7 @@ I'm a Google India Scholar & Udacity Android Developer Nanodegree graduate👨�
 I love learn & explore new things (especially deeplearning & metaverse), Feel free to say hi and share an idea with me, maybe we can make it work.
 
 🤵‍♂️ **Soft skills:**<br/>
-► Self-management<br/><br/>
+► Self-management<br/>
 ► Active listening<br/>
 ► Critical Thinking<br/>
 
