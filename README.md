@@ -4,7 +4,7 @@ Myself Jithin from Kerala, India.
 Currently working as Software Development Engineer at Riyaz, a MusicTech startup.<br/>
 I'm a Google India Scholar & Udacity Android Developer Nanodegree graduate👨‍🎓
 
-I love learn & explore new things, Feel free to say hi and share an idea with me, maybe I can help you.
+I love learn & explore new things (especially deeplearning & metaverse things), Feel free to say hi and share an idea with me, maybe we can make it work.
 
 🤵‍♂️ **Soft skills:**<br/>
 ► Self-management<br/><br/>
@@ -16,5 +16,5 @@ I love learn & explore new things, Feel free to say hi and share an idea with me
 ► Flutter SDK<br/>
 ► Kotlin<br/>
 ► Java<br/>
-► Architecture - MVVM (Android native), BLOC (Flutter)
-► Tensorflow<br/>
+► Architecture - MVVM (Android native), BLOC (Flutter)<br/>
+► Compose UI - Material3
