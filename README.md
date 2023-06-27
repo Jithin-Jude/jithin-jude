@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Jithin from Kerala, India.
-Currently working as Software Development Engineer.<br/>
+Currently working as Software Developer.<br/>
 I worked major part of my career remotely. And I believe
 self-management is the prime quality for remote work.
 
