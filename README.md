@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-Jithin from Kerala, India.
-Currently working as Software Developer.<br/>
-I worked major part of my career remotely. And I believe
-self-management is the prime quality for remote work.
-
-I love learn & explore new things (especially deeplearning & metaverse), Feel free to say hi and share an idea with me, maybe we can make it work.
+I'm an Android Developer with 4 years of application development experience. Dedicated to continuously developing, implementing, and adopting new technologies to produce innovative applications. Experienced in working with startup product managers.
 
 🤵‍♂️ **Soft skills:**<br/>
 ► Self-management<br/>
