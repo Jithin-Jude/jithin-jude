@@ -1,16 +1,3 @@
 ### Hi there 👋
 
-I'm an Android Developer with 4 years of application development experience. Dedicated to continuously developing, implementing, and adopting new technologies to produce innovative applications. Experienced in working with startup product managers.
-
-🤵‍♂️ **Soft skills:**<br/>
-► Self-management<br/>
-► Active listening<br/>
-► Critical Thinking<br/>
-
-💻 **Tech skills:**<br/>
-► Android SDK<br/>
-► Flutter SDK<br/>
-► Kotlin<br/>
-► Java<br/>
-► Architecture - MVVM (Android native), BLOC (Flutter)<br/>
-► Compose UI - Material3
+I’m Jithin, an independent application developer and founder of MountZoft Labs. My journey began in 2017 during college when I published my first app, Fun with Words. After four years at two startups, I developed several apps, including Game Of Zeros, Predict Gender(with TensorFlow), Promise Box, and Personality Test with Images. Now, I’m focused on Habit Card, a habit tracker that emphasizes habit health, helping users build lasting habits with simplicity and meaningful progress.
