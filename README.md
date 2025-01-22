@@ -2,7 +2,8 @@
 
 I’m Jithin, an independent application developer and founder of MountZoft Labs. My journey began in 2017 during college when I published my first app, Fun with Words. After four years at two startups, I developed several apps, including Game Of Zeros, Predict Gender(with TensorFlow), Promise Box, and Personality Test with Images. Now, I’m focused on Habit Card, a habit tracker that emphasizes habit health, helping users build lasting habits with simplicity and meaningful progress.
 
-How I came up with Habit Card
+## How I came up with Habit Card
+
 [ Small Habits, Big Changes — Start Today!](https://play.google.com/store/apps/details?id=habit.tracker.habitcard)
 
 I’ve tried many habit trackers to manage my daily routines, but none completely satisfied my requirements. I wanted a tracker that combined a GitHub-style contribution graph with the ability to mark habits as completed directly from notifications and a home screen widget for seamless tracking.
