@@ -20,4 +20,4 @@ Although some trackers with GitHub-inspired designs exist, they lack the seamles
 
 - **Lightweight and Privacy-Focused**: The app is under 4MB and gives you the option to turn off analytics.
 
-![No coffee days with Habit Card](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mneyqmpm99viadncldr.png)
+![Side Hustle tracked using Habit Card](https://github.com/Jithin-Jude/jithin-jude/blob/c45f4914f6fcd5a5f8a4df7c7b8f60da9ba819f0/assets/orange_fg.png)
