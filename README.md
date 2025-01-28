@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m Jithin, an independent application developer and founder of MountZoft Labs. My journey began in 2017 during college when I published my first app, Fun with Words. After four years at two startups, I developed several apps, including Game Of Zeros, Predict Gender(with TensorFlow), Promise Box, and Personality Test with Images. Now, I’m focused on Habit Card, a habit tracker that emphasizes habit health, helping users build lasting habits with simplicity and meaningful progress.
+I’m Jithin, an independent app developer and the founder of MountZoft Labs. My journey began in 2017 during my college years when I published my first app, Fun with Words. Over the next four years, while working at two startups, I developed and launched several apps, including Game of Zeros, Predict Gender (powered by TensorFlow), Bible Promise Box, and Personality Test with Images.
+
+Currently, I’m focused on building Habit Card, a habit-tracking app designed to prioritize habit health. The app aims to help users build lasting habits through simplicity, focus, and meaningful progress tracking.
 
 ## How I came up with Habit Card
 
